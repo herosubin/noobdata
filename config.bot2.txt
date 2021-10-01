@@ -1,0 +1,6 @@
+{
+	"ip":"npgameron.aternos.me",
+	"port": "19301",
+	"name": "goo",
+	"auto-night-skip":"false"
+}
